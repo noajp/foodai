@@ -183,3 +183,4 @@ class MapViewModel: ObservableObject {
         print("現在地に移動")
     }
 }
+

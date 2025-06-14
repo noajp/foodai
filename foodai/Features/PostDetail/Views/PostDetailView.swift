@@ -116,3 +116,4 @@ struct PostDetailView: View {
         .ignoresSafeArea(edges: .top)
     }
 }
+

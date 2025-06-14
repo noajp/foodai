@@ -37,3 +37,4 @@ class MyPageViewModel: ObservableObject {
         loadUserData()
     }
 }
+
